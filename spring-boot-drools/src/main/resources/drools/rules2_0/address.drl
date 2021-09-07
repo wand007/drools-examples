@@ -1,4 +1,4 @@
-package plausibcheck.adress
+package drools.rules2_0
 
 import com.neo.drools.model.Address;
 import com.neo.drools.model.fact.AddressCheckResult;
